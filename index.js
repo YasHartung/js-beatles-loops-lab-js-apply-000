@@ -8,4 +8,12 @@ function theBeatlesPlay (musicians, instruments) {
   return beatlesMembers;
 
 }
-// add solution here
+
+function johnLennonFacts (facts) {
+  var i=0;
+  while ( i < facts.length ){
+    facts[i] = facts [i] + "!";
+    i++;
+  }
+  
+}
