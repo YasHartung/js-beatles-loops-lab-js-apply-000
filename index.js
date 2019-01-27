@@ -20,7 +20,7 @@ function johnLennonFacts (facts) {
 
 var beatlesLove = [];
 function iLoveTheBeatles (count){
-  
+
   var i=0;
   do{
     beatlesLove [i] = "I love the Beatles!"
